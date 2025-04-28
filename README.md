@@ -98,5 +98,5 @@ PR Curves showed very high **Average Precision** (~0.95) across all models, conf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/malaria-detection-cnn.git
+   git clone https://github.com/SAMGREENHEAD/malaria-detection-cnn.git
    cd malaria-detection-cnn
